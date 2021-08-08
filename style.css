@@ -1,0 +1,59 @@
+.recuadro{
+    width: 600px;
+    height: 130px;
+    background-color: cyan;
+    border-radius: 15px;
+    
+    
+ }
+ .titulo{
+     width: 585px;
+     background-color: rgb(25, 108, 202);
+     padding-left: 15px;
+     color:white;
+    
+ }
+ 
+ .boton{
+     margin-top: 10px;
+     margin-left: 20px;
+ }
+ 
+ .correcta{
+   background-image: url(./img/correcta.jpg);
+   background-size: contain;
+   background-repeat: no-repeat;
+   width: 80px;
+   height: 80px;
+ }
+ 
+#img_p1{
+    float: right;
+}
+
+#img_p2{
+    float: right;
+}
+
+#img_p3{
+    float: right;
+}
+#img_p4{
+    float: right;
+}
+#img_p5{
+    float: right;
+}
+#img_p6{
+    float: right;
+}
+ 
+ .incorrecta{
+     background-image: url(./img/incorrecta.jpg);
+     background-size: contain;
+     background-repeat: no-repeat;
+     width: 80px;
+     height: 80px;
+ 
+ }
+
